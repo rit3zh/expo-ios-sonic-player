@@ -1,8 +1,17 @@
-import { registerRootComponent } from 'expo';
+// React Native entry point for Expo
+import { registerRootComponent } from "expo";
+// import RNExpoSonicPlayerModule from "expo-sonic-player";
 
-import App from './App';
+import App from "./App";
+import RNExpoSonicPlayerModule from "expo-sonic-ios-player";
 
-// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether you load the app in Expo Go or in a native build,
-// the environment is set up appropriately
 registerRootComponent(App);
+
+initPlayer();
+async function initPlayer() {
+  await RNExpoSonicPlayerModule.initialize({
+    enableRemoteControls: true,
+    enableNextTrack: true,
+    enablePreviousTrack: true,
+  });
+}
