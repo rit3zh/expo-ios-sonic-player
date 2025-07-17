@@ -2,8 +2,5 @@
   "platforms": ["apple", "android", "web"],
   "apple": {
     "modules": ["RNExpoSonicPlayer"]
-  },
-  "android": {
-    "modules": ["expo.modules.soniciosplayer.ExpoNativeiOSSonicPlayerModule"]
   }
 }

@@ -3,7 +3,7 @@ import RNExpoSonicPlayerModule from "../RNSonicModule";
 
 type StatusType = "loading" | "ready" | "error" | "seeked" | "unknown";
 
-export function usePlayer() {
+export function usePlayer<TapGesture>() {
   const [status, setStatus] = useState<StatusType>("unknown");
   const [isPlaying, setIsPlaying] = useState(false);
   const [duration, setDuration] = useState(0);

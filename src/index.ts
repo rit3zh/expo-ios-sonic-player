@@ -5,4 +5,3 @@ export { default } from "./RNSonicModule";
 export * from "./RNExpoSonicPlayer.types";
 export * from "./hooks/useBufferedProgress";
 export * from "./hooks/usePlayer";
-// export * from "./store/index";
