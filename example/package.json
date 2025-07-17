@@ -14,7 +14,12 @@
     "react": "19.0.0",
     "react-native": "0.79.5",
     "react-native-reanimated": "~3.17.4",
-    "zustand": "^5.0.6"
+    "zustand": "^5.0.6",
+    "expo-symbols": "~0.4.5",
+    "expo-blur": "~14.1.5",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-image": "~2.3.2",
+    "react-native-gesture-handler": "~2.24.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
