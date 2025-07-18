@@ -18,8 +18,7 @@
 
   <img src="https://img.shields.io/badge/Made_with-React_Native-blue" alt="Made with React Native" />
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained? Yes" />
-  <img src="https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=flat-square&
-  logo=EXPO&labelColor=f3f3f3&logoColor=000" alt="Runs with Expo" />
+  <img src="https://img.shields.io/badge/Runs%20with%20Expo-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000" alt="Runs with Expo" />
       <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"  />
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
     <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status" />
