@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://github.com/rit3zh/glow-ui" target="_blank" rel="noopener noreferrer">
+  <a href="https://sonic-player.xyz/" target="_blank" rel="noopener noreferrer">
     Expo iOS Sonic Player
   </a>
 </h1>
