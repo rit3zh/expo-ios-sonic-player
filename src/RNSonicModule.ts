@@ -137,8 +137,10 @@ export interface RNExpoSonicPlayerType
     onProgress: (event: ProgressEvent) => void;
     onStatusChange: (event: StatusEvent) => void;
     onPlaybackInfo: (event: PlaybackInfoEvent) => void;
-    onSongEnd: () => void;
-    onMediaControlEvent: (e: any) => void;
+    onMediaControlEvent: (
+      event: string,
+      payload?: Record<string, string>
+    ) => void;
   }> {
   initialize(options: AudioPlayerInitializationConfig): Promise<void>;
 

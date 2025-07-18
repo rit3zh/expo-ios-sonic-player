@@ -3,7 +3,7 @@ import RNExpoSonicPlayerModule from "../RNSonicModule";
 
 type StatusType = "loading" | "ready" | "error" | "seeked" | "unknown";
 
-export function usePlayer<TapGesture>() {
+export function usePlayer() {
   const [status, setStatus] = useState<StatusType>("unknown");
   const [isPlaying, setIsPlaying] = useState(false);
   const [duration, setDuration] = useState(0);
@@ -31,7 +31,7 @@ export function usePlayer<TapGesture>() {
   }, []);
 
   const progress = duration > 0 ? currentTime / duration : 0;
-  const remainingTime = Math.max(duration - currentTime, 0); // never negative
+  const remainingTime = Math.max(duration - currentTime, 0);
 
   return {
     status,

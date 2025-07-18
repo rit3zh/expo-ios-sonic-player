@@ -15,7 +15,10 @@ import { SFSymbol, SymbolView } from "expo-symbols";
 import RNExpoSonicPlayerModule, {
   useBufferedProgress,
   usePlayer,
+  Events,
+  PlayBackStatus,
 } from "expo-sonic-ios-player";
+
 import { Image as ExpoImage } from "expo-image";
 import Animated, {
   useSharedValue,
