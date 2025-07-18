@@ -1,5 +1,5 @@
 {
-  "name": "expo-sonic-ios-player",
+  "name": "expo-ios-sonic-player",
   "version": "0.1.1",
   "description": "🎧 | A complete, high-performance audio library for iOS",
   "main": "build/index.js",
@@ -21,9 +21,9 @@
     "expo-sonic-ios-player",
     "ExpoNativeiOSSonicPlayer"
   ],
-  "repository": "https://github.com/rit3zh/expo-sonic-ios-player",
+  "repository": "https://github.com/rit3zh/expo-ios-sonic-player",
   "bugs": {
-    "url": "https://github.com/rit3zh/expo-sonic-ios-player/issues"
+    "url": "https://github.com/rit3zh/expo-ios-sonic-player/issues"
   },
   "author": "Ritesh. <119659853+rit3zh@users.noreply.github.com> (https://github.com/rit3zh)",
   "license": "MIT",
