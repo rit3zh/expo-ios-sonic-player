@@ -53,7 +53,7 @@
 
 ## 📚 Documentation
 
-Check out the [full documentation](https://glow-ui.vercel.app/) to learn how to install, configure, and use Sonic Player in your projects.
+Check out the [full documentation](https://sonic-player.xyz/) to learn how to install, configure, and use Sonic Player in your projects.
 
 ---
 
@@ -66,12 +66,12 @@ Check out the [full documentation](https://glow-ui.vercel.app/) to learn how to 
 ## 🛠 Installation
 
 ```sh
-npx expo install expo-sonic
+npx expo install expo-ios-sonic-player
 ```
 
 ### iOS Setup
 
-> Sonic Player requires iOS 13+ and configures native modules automatically via `expo-modules-autolinking`.
+> Sonic Player requires iOS 18+ and configures native modules automatically via `expo-modules-autolinking`.
 
 Make sure to run:
 
