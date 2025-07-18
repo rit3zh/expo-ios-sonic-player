@@ -1,7 +1,7 @@
 {
   "name": "expo-sonic-ios-player",
   "version": "0.1.0",
-  "description": "A Native iOS sonic player.",
+  "description": "🎧 | A complete, high-performance audio library for iOS",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "author": "Ritesh. <119659853+rit3zh@users.noreply.github.com> (https://github.com/rit3zh)",
   "license": "MIT",
-  "homepage": "https://github.com/rit3zh/expo-sonic-ios-player#readme",
+  "homepage": "https://sonic-player.xyz/",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "~19.0.0",

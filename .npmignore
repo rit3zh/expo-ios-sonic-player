@@ -7,6 +7,8 @@
 __mocks__
 __tests__
 
+/src
+
 /babel.config.js
 /android/src/androidTest/
 /android/src/test/
