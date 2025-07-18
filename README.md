@@ -4,13 +4,13 @@
 
 <h1 align="center">
   <a href="https://github.com/rit3zh/glow-ui" target="_blank" rel="noopener noreferrer">
-    💅
+    Expo iOS Sonic Player
   </a>
 </h1>
 
 <p align="center">
   <!-- <strong>Glow UI</strong><br> -->
-  Effortless design. Flawless components. Shine bright with every interface with Glow UI.
+  A complete, high-performance audio library for iOS.
 </p>
 
 <div align="center">
