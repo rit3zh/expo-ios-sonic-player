@@ -770,7 +770,6 @@ class AudioPlayer: NSObject {
                 return
             }
 
-            // ✅ Rest of your existing AVAudioEngine resume logic...
             guard let audioFile = audioFile else {
                 print("❌ No audio file loaded for resume")
                 onStatusChange?("resume_error_no_file")
