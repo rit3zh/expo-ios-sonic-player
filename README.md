@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://sonic-player.xyz/" target="_blank" rel="noopener noreferrer">
+  <a href="https://sonicplayer.xyz/" target="_blank" rel="noopener noreferrer">
     Expo iOS Sonic Player
   </a>
 </h1>
@@ -53,7 +53,7 @@
 
 ## 📚 Documentation
 
-Check out the [full documentation](https://sonic-player.xyz/) to learn how to install, configure, and use Sonic Player in your projects.
+Check out the [full documentation](https://sonicplayer.xyz/) to learn how to install, configure, and use Sonic Player in your projects.
 
 ---
 
